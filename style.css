@@ -52,10 +52,11 @@ border-style: hidden;}
     width: auto;
 }
 #submit:hover{background-color: rgb(18, 189, 161); size: 100px;} 
-@media all and(max-width: 600px){
-    div{width: 95%;}
+@media(max-width: 600px){
+    form{width: 95%; 
+    margin: 0 auto;}
     input{width: 75%;}
-    submit{width: 50%;}
+    #submit{width: 50%;}
 
 
 
