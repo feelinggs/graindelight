@@ -52,7 +52,7 @@ border-style: hidden;}
     width: auto;
 }
 #submit:hover{background-color: rgb(18, 189, 161); size: 100px;} 
-h3{text-align: center;}
+#center{text-align: center;}
 @media(max-width: 600px){
     form{width: 95%; 
     margin: 0 auto;}
