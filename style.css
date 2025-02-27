@@ -36,7 +36,15 @@ width: 250px;
 border-radius: 20px;
 height: 25px;
 border-style: hidden;}
- 
+ ul {
+    list-style-position: inside; /* Ensure bullets are inside the list item */
+    text-align: left; /* Align text to the left */
+    display: table; /* Make the list inline-block to center it */
+    margin: 0 auto; }
+
+li {
+    text-align: left; /* Align text to the left */
+}
 
 #submit{background-color: greenyellow;
     color: white;
