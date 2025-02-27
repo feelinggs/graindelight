@@ -62,8 +62,8 @@ li {
 #submit:hover{background-color: rgb(18, 189, 161); size: 100px;} 
 #center{text-align: center;}
 @media(max-width: 600px){
-    form{width: 95%; 
-    margin: 0 auto;}
+    form{width: 85%; 
+    margin-left: auto; margin-right: auto;}
     input{width: 75%;}
     #submit{width: 50%;}
     #logo{display: block; margin: auto;}
