@@ -64,13 +64,13 @@ li {
 @media (max-width: 600px) {
 body{margin: 0 auto; text-align: center; width: fit-content;}
 #form{width: 80%;margin: 0 auto; width: fit-content;}
-input{width: 20px;}
+input{width: 200px;}
 #submit{width: 50%;}
 #logo{display: inline-block; margin: auto;}
 #center{text-align: center;}
     
 }
-body{background-color: red;}
+
 
 
 
